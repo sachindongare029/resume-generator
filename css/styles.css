@@ -7,13 +7,13 @@ body {
   flex-wrap: wrap;
 }
 article {
-  display: flex;
+  /* display: flex; */
 }
 header {
   margin-bottom: 30px;
 }
 #md-resume-header .d-flex-child {
-  width: 33.333%;
+  width: 35%;
   margin: 0 0 10px;
 }
 .md-website-link {
